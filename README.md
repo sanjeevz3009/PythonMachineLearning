@@ -3,7 +3,7 @@
 ## Technologies used for ML here are
 
 * Pandas
-* nump
+* numpy
 * sklearn
 * matplotlib
 * pickle
